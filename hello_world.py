@@ -1,2 +1,3 @@
+print("Hello world!")
 print("Hello darkness my old friend")
->>>>>>> tuni-merge/master
+print("I've come to talk with you again")
